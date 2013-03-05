@@ -1,14 +1,14 @@
 Get GlotPress POMOs
 ===================
 
-Downloads .mo and .pot files from completed translations of a specific project on translate.wordpress.org.
+Downloads .mo and .po files from completed translations of a specific project on translate.thematictheme.com.
 
 Usage
 -----
 
 get-translate-pomos.rb PROJECT VERSION
-* PROJECT: URL slug for a project listed at http://translate.wordpress.org/projects/. e.g. buddypress
-* VERSION: A sub-project, or version, of the PROJECT. e.g. 1.6.x
+* PROJECT: URL slug for a project listed at http://translate.thematictheme.com/projects/. e.g. thematic-framework
+* VERSION: A sub-project, or version, of the PROJECT. e.g. thematic-103
 
 License
 -------
